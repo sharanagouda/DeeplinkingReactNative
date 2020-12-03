@@ -1,0 +1,12 @@
+{
+  "name": "deeplinking",
+  "displayName": "deeplinking",
+  "expo": {
+    "name": "deeplinking",
+    "slug": "deeplinking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
